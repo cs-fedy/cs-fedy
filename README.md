@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cs-fedy
 - 👀 I’m interested in cloud computing and backend engineering.
-- 🌱 I’m currently learning solidity and software design.
+- 🌱 I’m currently learning system design and software design.
 - 💞️ I’m looking to collaborate on web-apps projects, software-engineering projects.
 - 📫 How to reach me: contact me by email `fedi.abd01@gmail.con`
 
